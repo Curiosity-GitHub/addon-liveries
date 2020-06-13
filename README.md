@@ -1,5 +1,4 @@
 # addon-liveries
-(Couldn't post it to #development:tutorials please move)
 
 I was looking for a way to add liveries "properly" by making a .yft file, couldn't find a guide and if I asked around everyone said I should just add the livery to the .ytd file as a texture.
 
