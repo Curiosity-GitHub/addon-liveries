@@ -6,9 +6,9 @@ I was looking for a way to add liveries "properly" by making a .yft file, couldn
 Finally figured it out and thought someone would find this guide helpful! :)
 
 
-[details="Credits"]
+"Credits"
 ![](https://i.imgur.com/PV8uzvD.png)
-[/details]
+
 
 
 > **Step 1**
@@ -25,26 +25,17 @@ Use the .dds file you downloaded (Make sure to not change the file name or the p
 
 > **Step 4**
 Open Texture Toolkit and *Load* the .yft file you downloaded.
-
-[details="Step 4 Picture"]
 ![](https://i.imgur.com/1sUu5kT.png)
-[/details]
 
 
 > **Step 5**
 Import the .dds file you edited to your liking. (!MAKE SURE THE FILE NAME IS elegy1_livery1.dds!)
-
-[details="Step 5 Picture"]
 ![](https://i.imgur.com/mKx5Phx.png)
-[/details]
 
 > **Step 6**
 Export your new livery.yft file (Name the file CARSPAWNCODE_livery1.yft)
 *(Examples: gtr_livery1.yft, skyline_livery1.yft , rs7.yft etc.)*
-
-[details="Step 6 Picture"]
 ![](https://i.imgur.com/81t8v2J.png)
-[/details]
 
 
 > **Step 7**
@@ -85,10 +76,7 @@ Modify your carcols.meta
 
         </Item>
 ```
-
-[details="Step 8 Picture"]
 ![](https://i.imgur.com/1PpPvvx.png)
-[/details]
 
 > **Step 9**
 Modify your vehicles.meta < flags > - Remove the flag "FLAG_HAS_LIVERY".
